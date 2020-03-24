@@ -30,4 +30,4 @@ export const NOT_AT_THIS_LOCATION = 'NotAtThisLocation';
 export const NOT_AT_THIS_TIME = 'NotAtThisTime';
 
 // Identifier is unknown and is not allowed for charging
-export const UNKOWN = 'Unknown';
+export const UNKNOWN = 'Unknown';
