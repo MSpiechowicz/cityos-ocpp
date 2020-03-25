@@ -1,5 +1,7 @@
 # cityos-ocpp
 
+[![Build Status](https://travis-ci.com/MSpiechowicz/cityos-ocpp.svg?token=n7qudHpQeuYRgiA8wMdd&branch=master)](https://travis-ci.com/MSpiechowicz/cityos-ocpp)
+
 ## Basic information
 
 CityOS is a fresh company that is fully focused on ecological and electric solutions for the global market, cities as well as their dwellers. This project is our way of saying "Thank you" for our customers as well as our community. Together we can change this world for the better place.
