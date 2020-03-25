@@ -7,11 +7,11 @@ export default class Command {
         return this.constructor.name;
     }
 
-    createRequest(payload) {
+    getRequest(payload) {
         return new FrameworkError(NOT_IMPLEMENTED);
     }
 
-    createResponse(payload) {
+    getResponse(payload) {
         return new FrameworkError(NOT_IMPLEMENTED);
     }
 }
