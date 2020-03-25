@@ -1,6 +1,6 @@
 import Command from "./command";
 
-export default class AuthorizeCommand extends Command {
+export default class CancelReservationCommand extends Command {
     constructor() {
         super();
     }
