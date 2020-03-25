@@ -1,0 +1,22 @@
+{
+  "name": "cityos-ocpp",
+  "version": "1.0.0",
+  "description": "#letsgetourcityback",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSpiechowicz/cityos-ocpp.git"
+  },
+  "keywords": [
+    "OCPP"
+  ],
+  "author": "Maciej Spiechowicz",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MSpiechowicz/cityos-ocpp/issues"
+  },
+  "homepage": "https://github.com/MSpiechowicz/cityos-ocpp#readme"
+}
