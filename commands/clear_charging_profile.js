@@ -1,6 +1,6 @@
 import Command from "./command";
 
-export default class ClearCachingProfileCommand extends Command {
+export default class ClearChargingProfileCommand extends Command {
     constructor() {
         super();
     }
