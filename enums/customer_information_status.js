@@ -1,9 +1,6 @@
 // Status in CancelReservationResponse.
 // CustomerInformationStatusEnumType is used by: customerInformation:CustomerInformationResponse
 
-// Description
-export const VALUE = 'Value';
-
 // The Charging Station accepted the message
 export const ACCEPTED = 'Accepted';
 

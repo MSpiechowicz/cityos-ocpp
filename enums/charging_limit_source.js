@@ -6,9 +6,6 @@
 // getChargingProfiles:GetChargingProfilesRequest.ChargingProfileCriterionType
 // reportChargingProfiles:ReportChargingProfilesRequest
 
-// Description
-export const VALUE = 'Value';
-
 // Indicates that an Energy Management System has sent a charging limit
 export const EMS = 'EMS';
 

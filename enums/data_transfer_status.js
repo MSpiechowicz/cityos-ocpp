@@ -1,9 +1,6 @@
 // Status in DataTransferResponse.
 // DataTransferStatusEnumType is used by: dataTransfer:DataTransferResponse
 
-// Description
-export const VALUE = 'Value';
-
 // Message has been accepted and the contained request is accepted
 export const ACCEPTED = 'Accepted';
 

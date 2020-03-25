@@ -1,8 +1,5 @@
 // DeleteCertificateStatusEnumType is used by: deleteCertificate:DeleteCertificateResponse
 
-// Description
-export const VALUE = 'Value';
-
 // Normal successful completion (no errors)
 export const ACCEPTED = 'Accepted';
 

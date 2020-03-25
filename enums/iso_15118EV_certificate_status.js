@@ -1,8 +1,5 @@
 // Iso15118EVCertificateStatusEnumType is used by: get15118EVCertificate:Get15118EVCertificateResponse
 
-// Description
-export const VALUE = 'Value';
-
 // exiResponse included - This is no indication whether the update was successful, just that the message was processed properly
 export const ACCEPTED = 'Accepted';
 

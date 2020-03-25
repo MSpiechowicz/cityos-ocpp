@@ -1,9 +1,6 @@
 // Status returned in response to ChangeAvailabilityRequest.
 // ChangeAvailabilityStatusEnumType is used by: changeAvailability:ChangeAvailabilityResponse
 
-// Description
-export const VALUE = 'Value';
-
 // Request has been accepted and will be executed
 export const ACCEPTED = 'Accepted';
 

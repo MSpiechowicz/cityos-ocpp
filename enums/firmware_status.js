@@ -4,9 +4,6 @@
 // A value with "Successful end state" in the description, is an end state, update process has stopped, update successful.
 // FirmwareStatusEnumType is used by: firmwareStatusNotification:FirmwareStatusNotificationRequest
 
-// Description
-export const VALUE = 'Value';
-
 // Intermediate state - New firmware has been downloaded by Charging Station
 export const DOWNLOADED = 'Downloaded';
 
